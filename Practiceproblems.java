@@ -10,7 +10,3 @@ public class Practiceproblems {
         return x;
     }
 }
-
-git add .
-git commit -m "finished countOccurences practice problems"
-git push
